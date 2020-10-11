@@ -1,0 +1,6 @@
+C:\sample-projects\spring-boot-dynamodb\src\main\java\com\codedude\springbootdynamodb\config\DynamoDBConfig.java
+C:\sample-projects\spring-boot-dynamodb\src\main\java\com\codedude\springbootdynamodb\entity\Person.java
+C:\sample-projects\spring-boot-dynamodb\src\main\java\com\codedude\springbootdynamodb\controller\PersonController.java
+C:\sample-projects\spring-boot-dynamodb\src\main\java\com\codedude\springbootdynamodb\repository\PersonRepository.java
+C:\sample-projects\spring-boot-dynamodb\src\main\java\com\codedude\springbootdynamodb\SpringBootDynamodbApplication.java
+C:\sample-projects\spring-boot-dynamodb\src\main\java\com\codedude\springbootdynamodb\entity\Address.java

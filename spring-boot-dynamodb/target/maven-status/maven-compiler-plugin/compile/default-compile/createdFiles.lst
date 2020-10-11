@@ -1,0 +1,6 @@
+com\codedude\springbootdynamodb\config\DynamoDBConfig.class
+com\codedude\springbootdynamodb\SpringBootDynamodbApplication.class
+com\codedude\springbootdynamodb\controller\PersonController.class
+com\codedude\springbootdynamodb\repository\PersonRepository.class
+com\codedude\springbootdynamodb\entity\Address.class
+com\codedude\springbootdynamodb\entity\Person.class
